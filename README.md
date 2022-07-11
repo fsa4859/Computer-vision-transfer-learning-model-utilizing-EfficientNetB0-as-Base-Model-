@@ -50,6 +50,44 @@ This project presents the development of a computer vision model in Tensorflow u
 ![image](https://user-images.githubusercontent.com/69100847/178317409-107313ef-06d3-49ac-ac98-9f70c1b6cb52.png)
 ![image](https://user-images.githubusercontent.com/69100847/178317454-ae8cd2e5-ffa8-43cb-afe6-6842988c54ba.png)
 
+**Checking data policy of each layer and whether it is trainable**
+
+![image](https://user-images.githubusercontent.com/69100847/178318142-888ecc96-992e-474d-a33c-caefce0f915a.png)
+
+**Checking layers in EfficientNetB0**
+
+![image](https://user-images.githubusercontent.com/69100847/178318291-0f7cc9e4-c14b-43d2-8944-9f0425a638e6.png)
+
+**Fitting the model**
+
+![image](https://user-images.githubusercontent.com/69100847/178318849-65456890-df74-43e5-9b47-0a4b31b16ae9.png)
+
+**Loading and saving the model**
+
+![image](https://user-images.githubusercontent.com/69100847/178318969-c0b65d14-b332-4a80-a108-e4328fbb39b7.png)
+
+![image](https://user-images.githubusercontent.com/69100847/178319002-95312d0a-b6cb-431a-a9d8-e36fefc4938c.png)
+
+- The model acheived 70% validation accuracy which is similar to the results recorded in the food101 paper.
+
+**Building a fine tuned model to improve performance**
+
+![image](https://user-images.githubusercontent.com/69100847/178319326-7db6a790-c425-4da4-a386-dc540b832d96.png)
+
+**Evaluating the fine tuned model**
+
+![image](https://user-images.githubusercontent.com/69100847/178319424-537b5c3a-7d98-4046-a13f-c032d58939d7.png)
+
+The model acheived 80% validation accuracy which is better than results from the paper. The new enhanced model made use of unfreezing the efficientnetB0 and fine tuning the learning paramaters. 
+
+**Uploading results to tensorboard**
+
+![image](https://user-images.githubusercontent.com/69100847/178319691-cb263bbf-6cf8-4d70-8d31-91c398c4fd96.png)
+
+
+
+
+
 
 
 
