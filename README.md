@@ -15,4 +15,18 @@ This project presents the development of a computer vision model in Tensorflow u
 ![image](https://user-images.githubusercontent.com/69100847/178315013-961849dd-6a07-40de-86a1-c8235cbec584.png)
 
 
+**Checking the number of training and testing data**
+
+![image](https://user-images.githubusercontent.com/69100847/178315400-67726cb6-6dea-4a48-863e-1a7b2bb19b21.png)
+
+**Defining a preprocessing function**
+
+- The preprocessing function prepares the images to be in the shape of (224,224,3)
+
+![image](https://user-images.githubusercontent.com/69100847/178315908-8fb4da3e-9aed-4988-af19-d8bdb69d7d93.png)
+
+- Now checking the image after being passed to the pre-processing function
+
+![image](https://user-images.githubusercontent.com/69100847/178316034-4f1e8464-2549-4602-8510-fc8163bcabaa.png)
+
 
