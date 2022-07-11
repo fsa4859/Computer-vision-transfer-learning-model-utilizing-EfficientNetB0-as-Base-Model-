@@ -29,4 +29,28 @@ This project presents the development of a computer vision model in Tensorflow u
 
 ![image](https://user-images.githubusercontent.com/69100847/178316034-4f1e8464-2549-4602-8510-fc8163bcabaa.png)
 
+**Batching and preprocessing datasets**
+
+![image](https://user-images.githubusercontent.com/69100847/178316714-1cff8381-74bc-4088-89f6-35e2a82a34e6.png)
+
+**Creating Model Callbacks**
+
+![image](https://user-images.githubusercontent.com/69100847/178316860-b39f1008-46ae-4ec6-a8fe-341edcb6a7b1.png)
+
+**Setting up the mixed precision training**
+
+![image](https://user-images.githubusercontent.com/69100847/178317213-d479e32f-b1a3-4eaf-bd22-a3d76c1e5e04.png)
+
+**Creating feature extraction model**
+
+![image](https://user-images.githubusercontent.com/69100847/178317310-3a8b170e-93ea-4bf8-913c-2369f2f2e2f9.png)
+
+**Model Compilation and summary**
+
+![image](https://user-images.githubusercontent.com/69100847/178317409-107313ef-06d3-49ac-ac98-9f70c1b6cb52.png)
+![image](https://user-images.githubusercontent.com/69100847/178317454-ae8cd2e5-ffa8-43cb-afe6-6842988c54ba.png)
+
+
+
+
 
